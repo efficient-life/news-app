@@ -1,0 +1,8 @@
+{
+  "printWidth": 100, // 1行の最大文字数を100文字に
+  "tabWidth": 2, // タブのサイズを半角スペース 2 つに
+  "semi": false, // 末尾セミコロンあり
+  "trailingComma": "all", // 末尾のカンマあり
+  "singleQuote": true, // シングルクォーテーションに統一
+  "arrowParens": "always", // Arrow 関数の引数に () を付ける
+}
